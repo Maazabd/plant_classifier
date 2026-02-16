@@ -1,6 +1,50 @@
-fastapi
-uvicorn
-torch
-torchvision
-pillow
-python-multipart
+annotated-doc==0.0.4
+annotated-types==0.7.0
+anyio==4.12.1
+click==8.3.1
+colorama==0.4.6
+contourpy @ file:///C:/miniconda3/conda-bld/contourpy_1763643943275/work
+cycler @ file:///C:/Users/task_176606794786808/croot/cycler_1766068049869/work
+fastapi==0.128.5
+filelock==3.20.3
+fonttools @ file:///C:/miniconda3/conda-bld/fonttools_1765445216921/work
+fsspec==2026.1.0
+gunicorn==25.1.0
+h11==0.16.0
+idna==3.11
+Jinja2==3.1.6
+joblib @ file:///C:/Users/task_176786740206630/croot/joblib_1767868144069/work
+kiwisolver @ file:///C:/miniconda3/conda-bld/kiwisolver_1764159385651/work
+MarkupSafe==3.0.3
+matplotlib==3.10.8
+mkl-service==2.5.2
+mkl_fft @ file:///C:/miniconda3/conda-bld/mkl_fft_1761592917950/work
+mkl_random @ file:///C:/miniconda3/conda-bld/mkl_random_1761593166070/work
+mpmath==1.3.0
+networkx==3.6.1
+numpy @ file:///C:/Users/task_176837630381390/croot/numpy_and_numpy_base_1768376429289/work/dist/numpy-2.4.1-cp312-cp312-win_amd64.whl#sha256=9a80f0c895a0fcf801f5c9070b9776279af1b701432e03180b7181eaa6b52677
+packaging @ file:///C:/miniconda3/conda-bld/packaging_1761049137378/work
+pillow @ file:///C:/b/abs_b50vowcrzo/croot/pillow_1738010273782/work
+pydantic==2.12.5
+pydantic_core==2.41.5
+pyparsing @ file:///C:/miniconda3/conda-bld/pyparsing_1763973902692/work
+PyQt6==6.9.1
+PyQt6_sip @ file:///C:/miniconda3/conda-bld/pyqt-split_1757511035565/work/pyqt_sip
+python-dateutil @ file:///C:/b/abs_3au_koqnbs/croot/python-dateutil_1716495777160/work
+python-multipart==0.0.22
+scikit-learn @ file:///C:/b/abs_45qemhn4lg/croot/scikit-learn_1753427401078/work
+scipy @ file:///C:/miniconda3/conda-bld/scipy_1762194966620/work/dist/scipy-1.16.3-cp312-cp312-win_amd64.whl#sha256=70cdefacf51774d888f17da3a8230fdf07ffd1b5b39ffa0b247ff8d69e8529f6
+setuptools==80.9.0
+sip @ file:///C:/b/abs_f6ow8vlbb7/croot/sip_1756224172742/work
+six @ file:///C:/b/abs_149wuyuo1o/croot/six_1744271521515/work
+starlette==0.52.1
+sympy==1.14.0
+threadpoolctl @ file:///C:/miniconda3/conda-bld/threadpoolctl_1764361791480/work
+torch==2.4.1
+torchaudio==2.4.1
+torchvision==0.19.1
+tornado @ file:///C:/Users/task_176599264648662/croot/tornado_1765992760941/work
+typing-inspection==0.4.2
+typing_extensions==4.15.0
+uvicorn==0.40.0
+wheel==0.45.1
